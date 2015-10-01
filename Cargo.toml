@@ -1,0 +1,4 @@
+[package]
+name = "crypto-base64"
+version = "0.1.0"
+authors = ["Kara McNair <github@karamcnair.com>"]
