@@ -1,1 +1,2 @@
 # crypto-base64
+Well! It turns out that Rust + base64 was too much for my brain to take at one time so I have temporarily abandoned Rust in favour of a C implementation. Reducing the number of new concepts by that much was enough for me to be able to actually get the core tripl-octet processing working so I'll be implementing in C first, then Python (to prove to myself I can do it in another language too) and then, MAYBE later, in Rust. (Probably not)
